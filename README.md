@@ -16,7 +16,6 @@ This repository contains the implementation of a Course Recommendation System us
 - [Model](#model)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
